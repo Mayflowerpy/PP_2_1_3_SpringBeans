@@ -19,8 +19,4 @@ public class Timer {
     public Long getTime() {
         return nanoTime;
     }
-//
-//    public Timer getTimer() {
-//        return timer;
-//    }
 }
